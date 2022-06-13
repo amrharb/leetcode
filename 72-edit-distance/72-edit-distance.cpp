@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int dp[505][505];
     int minDistance(string s, string x) {
         int n=s.size(),m=x.size();
+        vector<vector<int>>dp(n+1,vector<int>(m+1));
         for(int i=0;i<=n;i++){
             for(int j=0;j<=m;j++){
                 if(!i&&!j)dp[i][j]=0;
