@@ -1,10 +1,10 @@
 class Solution {
 public:
-    long long dp[305][5005];
+    int dp[305][5005];
     vector<int>v;
     long long solve(int i,int rem){
         if(i==v.size()||rem<=0)return !rem;
-        long long &ret=dp[i][rem];
+        int &ret=dp[i][rem];
         if(~ret)return ret;
         return ret=solve(i,rem-v[i])+solve(i+1,rem);
     }
