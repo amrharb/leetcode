@@ -1,16 +1,14 @@
 class Solution {
 public:
-    int dp[305][5005];
-    vector<int>v;
-    long long solve(int i,int rem){
-        if(i==v.size()||rem<=0)return !rem;
-        int &ret=dp[i][rem];
-        if(~ret)return ret;
-        return ret=solve(i,rem-v[i])+solve(i+1,rem);
-    }
     int change(int amount, vector<int>& coins) {
-         memset(dp,-1,sizeof dp);
-        v=coins;
-        return solve(0,amount);
+         int n=coins.size();
+        vector<int>dp(amount+1);
+        dp[0]=1;
+        for(int i=0;i<n;i++){
+            for(int j=coins[i];j<=amount;j++){
+                dp[j]+=dp[j-coins[i]];
+            }
+        }
+        return dp[amount];
     }
 };
