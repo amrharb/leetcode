@@ -6,7 +6,7 @@ public:
             sq[i-1]=i*i;
         }
         dp[0]=0;
-        for(int i=0;i<100;i++){
+        for(int i=0;i<upper_bound(sq.begin(),sq.end(),n)-sq.begin();i++){
             for(int j=sq[i];j<=n;j++){
                 dp[j]=min(dp[j],1+dp[j-sq[i]]);
             }
