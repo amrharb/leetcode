@@ -3,14 +3,13 @@ public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
         int i=0,j=0;
         vector<int>v(n+m);
-        for(int k=0;k<n+m;k++){
-            if(i<m&&j<n){
-                if(nums1[i]<=nums2[j])v[k]=nums1[i++];
-                else v[k]=nums2[j++];
-            }
-            else if(i<m)v[k]=nums1[i++];
-            else v[k]=nums2[j++];
+        for(int i=0;i<m;i++){
+            v[i]=nums1[i];
         }
+        for(int i=m;i<n+m;i++){
+            v[i]=nums2[i-m];
+        }
+        sort(v.begin(),v.end());
         nums1=v;
     }
 };
