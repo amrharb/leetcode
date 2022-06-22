@@ -5,13 +5,9 @@ public:
         bool odd=0;
         map<char,int>mp;
         for(auto&it:s)mp[it]++;
-        for(char i='a';i<='z';i++){
-            cnt+=mp[i]/2;
-            odd|=(mp[i]&1);
-        }
-        for(char i='A';i<='Z';i++){
-            cnt+=mp[i]/2;
-            odd|=(mp[i]&1);
+        for(auto it:mp){
+            cnt+=it.second/2;
+            odd|=(it.second&1);
         }
         return cnt*2+odd;
     }
