@@ -1,33 +1,13 @@
 class Solution {
 public:
-    bool checkIfExist(vector<int>& arr) {
-        int n=arr.size(),cnt=0;
-        sort(arr.begin(),arr.end());
+    bool checkIfExist(vector<int>& v) {
+        int n=v.size();
+        map<int,int>mp;
         for(int i=0;i<n;i++){
-            if(arr[i]>=0){
-            int l=i+1,r=n-1;
-            while(l<=r){
-                int mid=(l+r)/2;
-                if(arr[mid]==arr[i]*2){
-                    cnt++;
-                    break;
-                }
-                else if(arr[mid]>arr[i]*2)r=mid-1;
-                else l=mid+1;
-            }}
-            else{
-                int l=0,r=i-1;
-            while(l<=r){
-                int mid=(l+r)/2;
-                if(arr[mid]==arr[i]*2){
-                    cnt++;
-                    break;
-                }
-                else if(arr[mid]>arr[i]*2)r=mid-1;
-                else l=mid+1;
-            }
-            }
+            if(mp[v[i]*2])return 1;
+            if(v[i]%2==0&&mp[v[i]/2])return 1;
+            mp[v[i]]++;
         }
-        return cnt;
+        return 0;
     }
 };
