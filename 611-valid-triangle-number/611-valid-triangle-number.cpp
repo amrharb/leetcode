@@ -5,11 +5,12 @@ public:
     {
         int n=v.size(),cnt=0;
         sort(v.begin(),v.end());
-        for(int i=0; i<n; i++)
+        for(int i=0; i<n-2; i++)
         {
-            for(int j=i+1; j<n; j++)
+            int k=i+2;
+            for(int j=i+1; j<n-1&&v[i]; j++)
             {
-                int k=lower_bound(v.begin()+j+1,v.end(),v[i]+v[j])-v.begin();
+                while(k<v.size()&&v[i]+v[j]>v[k])k++;
                 cnt+=k-j-1;
             }
         }
