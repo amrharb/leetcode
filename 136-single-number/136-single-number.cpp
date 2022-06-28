@@ -1,14 +1,8 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int,int>mp;
-        int sol;
-        for(auto it:nums){
-            mp[it]++;
-        }
-        for(auto&it:mp){
-            if(it.second==1)sol=it.first;
-        }
+        int sol=0;
+        for(auto&it:nums)sol^=it;
         return sol;
     }
 };
