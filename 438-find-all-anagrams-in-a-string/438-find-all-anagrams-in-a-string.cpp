@@ -7,7 +7,7 @@ public:
         for(auto&it:p)mk[it]++;
         int l=0,r=0;
         while(l<n){
-            while(r<n&&r-l+1<=m){
+            while(r<n&&r-l+1<=m&&mp[s[r]]<mk[s[r]]){
                 mp[s[r++]]++;
             }
             bool flag=1;
