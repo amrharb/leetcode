@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool check(int k,vector<int>v,int cnt){
-       int last=0;
-        for(int i=0;i<v.size()&&cnt;i++){
+       int last=0,n=v.size();
+        for(int i=0;i<n&&cnt;i++){
             if(v[i]>=last){
                 cnt--;
                 last=v[i]+k;
