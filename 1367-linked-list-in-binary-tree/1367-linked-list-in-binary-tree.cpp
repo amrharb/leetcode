@@ -21,20 +21,18 @@
  */
 class Solution {
 public:
-    ListNode* start;
-    bool dfs(TreeNode* root,int val){
-        if(root==NULL)return 0;
-        if(root->val==val&&(dfs2(start,root)||dfs2(start,root)))return 1;
-        return dfs(root->left,val)||dfs(root->right,val);
-    }
-    bool dfs2(ListNode* head,TreeNode* root){
+    bool check(ListNode* head,TreeNode* root){
         if(head==NULL)return 1;
         if(root==NULL)return 0;
-        if(head->val==root->val)return (dfs2(head->next,root->left)||dfs2(head->next,root->right));
+        if(head->val==root->val)return (check(head->next,root->left)||check(head->next,root->right));
         return 0;
     }
+    bool dfs(ListNode* head,TreeNode* root){
+        if(root==NULL||head==NULL)return 0;
+        if(root->val==head->val&&(check(head,root)||check(head,root)))return 1;
+        return dfs(head,root->left)||dfs(head,root->right);
+    }
     bool isSubPath(ListNode* head, TreeNode* root) {
-        start=head;
-        return dfs(root,head->val);
+        return dfs(head,root);
     }
 };
