@@ -1,9 +1,12 @@
 class Solution {
 public:
     bool check(int k,vector<int>v,int cnt){
-        for(int i=0;i<v.size()&&cnt;){
-            cnt--;
-            i=lower_bound(v.begin()+i,v.end(),v[i]+k)-v.begin();
+       int last=0;
+        for(int i=0;i<v.size()&&cnt;i++){
+            if(v[i]>=last){
+                cnt--;
+                last=v[i]+k;
+            }
         }
         return !cnt;
     }
