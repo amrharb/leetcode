@@ -3,10 +3,12 @@ public:
     int n;
     vector<int>v;
     bool check(int k){
-        int cnt=n;
-        for(int i=0;i<v.size()&&cnt;){
-            cnt--;
-            i=lower_bound(v.begin()+i,v.end(),v[i]+k)-v.begin();
+        int cnt=n,last=0;
+        for(int i=0;i<v.size()&&cnt;i++){
+            if(v[i]>=last){
+                cnt--;
+                last=v[i]+k;
+            }
         }
         return !cnt;
     }
