@@ -2,8 +2,12 @@ class Solution {
 public:
     int findMin(vector<int>& v) {
         int n=v.size();
-        map<int,int>mp;
-        for(int i=0;i<n;i++)mp[v[i]];
-        return (*mp.begin()).first;
+        int l=0,r=n-1;
+        while(l<=r){
+            int mid=l+r>>1;
+            if(v[mid]>=v[0])l=mid+1;
+            else r=mid-1;
+        }
+        return v[(r+1)%n];
     }
 };
