@@ -1,11 +1,10 @@
 class Solution {
 public:
     struct DSU{
-        vector<int>p,sz;
+        int p[200],sz[200];
         void init(int n){
-            sz=vector<int>(n,1);
-            p=vector<int>(n);
-            for(int i=0;i<n;i++)p[i]=i;
+            iota(p,p+n,0);
+            fill(sz,sz+n,1);
         }
         int get(int a){
             return p[a]=(p[a]==a ? a:get(p[a]));
