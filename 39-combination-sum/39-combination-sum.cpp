@@ -9,10 +9,11 @@ public:
             return;
         }
         solve(i+1,rem,v);
-        if(rem>=a[i]){
+        int k=1;
+        while(rem>=k*a[i]){
             v.push_back(a[i]);
-            solve(i,rem-a[i],v);
-            solve(i+1,rem-a[i],v);
+            solve(i+1,rem-k*a[i],v);
+            k++;
         }
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
