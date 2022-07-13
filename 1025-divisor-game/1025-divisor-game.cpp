@@ -2,7 +2,6 @@ class Solution {
 public:
     int dp[1005];
     bool solve(int i){
-        if(!i)return 0;
         int &ret=dp[i];
         if(~ret)return ret;
         ret=0;
