@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool divisorGame(short n) {
+    bool divisorGame(int n) {
         return !(n&1);
     }
 };
