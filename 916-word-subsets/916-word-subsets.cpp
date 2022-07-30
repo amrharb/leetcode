@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int mp[30],mk[100000][30],mx[30];
+    int mp[30],mk[10000][30],mx[30];
     vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
         int n=words1.size(),m=words2.size();
         for(int i=0;i<m;i++){
