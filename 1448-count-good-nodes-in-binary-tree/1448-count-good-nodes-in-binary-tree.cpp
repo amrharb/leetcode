@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int cnt=0;
+    int cnt;
     void dfs(TreeNode* root,int mx){
         if(root==NULL)return;
         if(root->val>=mx)cnt++;
