@@ -1,5 +1,3 @@
-const int N=1e2+5;
-int ans[N][2];
 class Solution {
 public:
     int rob(vector<int>& nums) {
@@ -8,6 +6,7 @@ public:
             return nums[0];
         if(n==2)
             return max(nums[0],nums[1]);
+        vector<vector<int>>ans(n,vector<int>(2));
         ans[0][1]=nums[0];
         ans[1][0]=nums[1];
         ans[1][1]=max(nums[0],nums[1]);
