@@ -10,8 +10,11 @@ public:
                 prod*=nums[i];
             else zeros++;
         }
-        if(zeros>1)
-            return vector<int>(n,0);
+        if(zeros>1){
+            for(int i=0;i<n;i++)
+                nums[i]=0;
+            return nums;
+        }
         for(int i=0; i<n; i++)
         {
             if(nums[i]){
