@@ -8,6 +8,6 @@ public:
                 l=mid+1;
             else r=mid-1;
         }
-        return v[(r+1)%n];
+        return v[l%n];
     }
 };
