@@ -14,7 +14,14 @@ private:
     int solve(TreeNode* root,int l,int r){
         if(root==NULL)
             return 0;
-        return (root->val>=l&&root->val<=r)*root->val+solve(root->left,l,r)+solve(root->right,l,r);
+        int ans=0;
+        if(root->val>=l&&root->val<=r)
+            ans=root->val;
+        if(root->val>=l)
+            ans+=solve(root->left,l,r);
+        if(root->val<=r)
+            ans+=solve(root->right,l,r);
+        return ans;
     }
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
