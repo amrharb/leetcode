@@ -2,12 +2,9 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         bitset<10001>bs;
-        int n=nums.size();
+        int n=nums.size(),xr=n;
         for(int i=0;i<n;i++)
-            bs[nums[i]]=1;
-        for(int i=0;i<n;i++)
-            if(!bs[i])
-                return i;
-        return n;
+            xr^=i^nums[i];
+        return xr;
     }
 };
