@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int getSum(int a, int b) {
+    short getSum(short a, short b) {
         return a+b;
     }
 };
