@@ -1,12 +1,23 @@
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(!head)   return head;
-        map<Node*, Node*> copy;
-        Node* it = head;
-        while(it) if(!copy[it]) copy[it] = new Node(it->val), it = it->next;
-        it = head;
-        while(it) copy[it]->next = it->next ? copy[it->next] : nullptr, copy[it]->random = it->random ? copy[it->random] : nullptr, it = it->next;
-        return copy[head];
+        if(head==nullptr)
+            return nullptr;
+        map<Node*,Node*>cloned;
+        Node* temp=head;
+        while(temp!=nullptr){
+            Node* newNode=new Node(temp->val);
+            cloned[temp]=newNode;
+            temp=temp->next;
+        }
+        temp=head;
+        while(temp!=nullptr){
+            if(temp->next!=nullptr)
+                cloned[temp]->next=cloned[temp->next];
+            if(temp->random!=nullptr)
+                cloned[temp]->random=cloned[temp->random];
+            temp=temp->next;
+        }
+        return cloned[head];
     }
 };
