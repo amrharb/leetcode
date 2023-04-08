@@ -2,7 +2,7 @@ class Solution {
 public:
     Node* copyRandomList(Node* head) {
         if(!head)   return head;
-        unordered_map<Node*, Node*> copy;
+        map<Node*, Node*> copy;
         Node* it = head;
         while(it) if(!copy[it]) copy[it] = new Node(it->val), it = it->next;
         it = head;
