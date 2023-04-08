@@ -3,7 +3,7 @@ public:
     Node* copyRandomList(Node* head) {
         if(head==nullptr)
             return nullptr;
-        map<Node*,Node*>cloned;
+        unordered_map<Node*,Node*>cloned;
         Node* temp=head;
         while(temp!=nullptr){
             Node* newNode=new Node(temp->val);
