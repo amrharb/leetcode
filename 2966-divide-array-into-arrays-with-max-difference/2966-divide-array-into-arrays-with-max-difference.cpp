@@ -1,6 +1,6 @@
+vector<vector<int>> ans;
 class Solution {
 public:
-    vector<vector<int>> ans;
     vector<vector<int>> divideArray(vector<int>& nums, int k) {
         ans.clear();
         sort(nums.begin(), nums.end());
