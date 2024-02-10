@@ -13,10 +13,9 @@ public:
         }
         for(int i=2;i<n;i++)
         {
-            for(int j=0;j+i<n;j++) 
+            for(int j=0;j+i<n;j++)
             {
-                dp[j][i+j]=(s[j]==s[i+j])&&(dp[j+1][i+j-1]);
-                cnt+=dp[j][i+j];
+                cnt+=(dp[j][i+j]=(s[j]==s[i+j])&&(dp[j+1][i+j-1]));
             }
         }
         return cnt;
