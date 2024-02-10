@@ -7,12 +7,12 @@ public:
     {
         if(i>=j)
             return 1;
-        int &ret=dp[i][j];
+        int ret=dp[i][j];
         if(~ret)
             return ret;
         if(s[i]==s[j])
-            return ret=solve(s,i+1,j-1);
-        return ret=0;
+            return dp[i][j]=ret=solve(s,i+1,j-1);
+        return dp[i][j]=ret=0;
     }
     int countSubstrings(string s) {
         int n=s.size(),cnt=0;
