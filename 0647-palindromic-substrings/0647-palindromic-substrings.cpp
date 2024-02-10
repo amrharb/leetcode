@@ -15,8 +15,10 @@ public:
         return ret=0;
     }
     int countSubstrings(string s) {
-        memset(dp,-1,sizeof dp);
         int n=s.size(),cnt=0;
+        for(int i=0;i<n;i++)
+            for(int j=0;j<n;j++)
+                dp[i][j]=-1;
         for(int i=0;i<n;i++)
         {
             for(int j=i;j<n;j++)
