@@ -3,7 +3,7 @@ class Solution {
 public:
     int countSubstrings(string s) {
         int n=s.size(),cnt=0;
-        vector<vector<int>>dp(n,vector<int>(n));
+        vector<vector<bool>>dp(n,vector<bool>(n));
         for(int i=0;i<n;i++)
         {
             dp[i][i]=1;
