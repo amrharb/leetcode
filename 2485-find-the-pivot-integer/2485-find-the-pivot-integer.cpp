@@ -5,10 +5,16 @@ public:
         return n*(n+1)/2;
     }
     int pivotInteger(int n) {
-        for(int i=1;i<=n;i++)
+        int l=1,r=n;
+        while(l<=r)
         {
-            if(sum(i)==sum(n)-sum(i-1))
-                return i;
+            int mid=l+r>>1;
+            if(sum(mid)==sum(n)-sum(mid-1))
+                return mid;
+            if(sum(mid)>sum(n)-sum(mid))
+                r=mid-1;
+            else
+                l=mid+1;
         }
         return -1;
     }
