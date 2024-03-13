@@ -6,6 +6,6 @@ public:
     }
     int pivotInteger(int n) {
         int x=sqrt(n*(n+1)/2);
-        return (sum(x)==sum(n)-sum(x-1) ? x:-1);
+        return (x*x==(n*(n+1)/2) ? x:-1);
     }
 };
