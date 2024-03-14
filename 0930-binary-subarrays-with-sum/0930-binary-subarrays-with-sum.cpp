@@ -1,9 +1,10 @@
 class Solution {
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        vector<int>mp(count(nums.begin(),nums.end(),1)+1);
+        vector<short>mp(count(nums.begin(),nums.end(),1)+1);
         mp[0]=1;
-        int sum=0,ans=0;
+        short sum=0;
+        int ans=0;
         for(auto&it:nums)
         {
             sum+=it;
