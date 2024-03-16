@@ -2,9 +2,9 @@ class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
         map<int,int>mp;
-        int sum=0,ans=0;
+        int sum=0,ans=0,n=nums.size();
         mp[sum]=-1;
-        for(int i=0;i<nums.size();i++)
+        for(int i=0;i<n;i++)
         {
             sum+=nums[i]*2-1;
             if(mp.find(sum)!=mp.end())
