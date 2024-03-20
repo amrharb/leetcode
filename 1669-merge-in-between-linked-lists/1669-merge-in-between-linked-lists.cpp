@@ -17,7 +17,7 @@ public:
             temp=temp->next;
         ListNode* nxt=temp->next;
         temp->next=list2;
-        cnt+=b-a+2;
+        cnt=b-a+1;
         while(nxt->next!=nullptr&&cnt--)
             nxt=nxt->next;
         while(list2->next!=nullptr)
