@@ -13,9 +13,8 @@ class Solution {
 public:
     int dfs(TreeNode* root,bool flag){
         if(root==nullptr)return 0;
-        int ans=dfs(root->left,1)+dfs(root->right,0);
-        if(flag&&!root->left&&!root->right)ans+=root->val;
-        return ans;
+        if(!root->left&&!root->right)return flag*root->val;
+        return dfs(root->left,1)+dfs(root->right,0);
     }
     int sumOfLeftLeaves(TreeNode* root) {
         return dfs(root,0);
