@@ -11,12 +11,9 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root,bool flag){
-        if(root==nullptr)return 0;
+    int sumOfLeftLeaves(TreeNode* root,bool flag=0) {
+       if(root==nullptr)return 0;
         if(!root->left&&!root->right)return flag*root->val;
-        return dfs(root->left,1)+dfs(root->right,0);
-    }
-    int sumOfLeftLeaves(TreeNode* root) {
-        return dfs(root,0);
+        return sumOfLeftLeaves(root->left,1)+sumOfLeftLeaves(root->right,0);
     }
 };
