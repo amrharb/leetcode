@@ -12,7 +12,7 @@
 class Solution {
 public:
     int sumOfLeftLeaves(TreeNode* root,bool flag=0) {
-       if(root==nullptr)return 0;
+        if(root==nullptr)return 0;
         if(!root->left&&!root->right)return flag*root->val;
         return sumOfLeftLeaves(root->left,1)+sumOfLeftLeaves(root->right,0);
     }
