@@ -18,9 +18,6 @@ public:
             }
             st=nw;
         }
-        int mn=1e9;
-        for(int j=0;j<m;j++)
-            mn=min(mn,dp[n-1][j]);
-        return mn;
+        return *min_element(dp[n-1].begin(),dp[n-1].end());
     }
 };
