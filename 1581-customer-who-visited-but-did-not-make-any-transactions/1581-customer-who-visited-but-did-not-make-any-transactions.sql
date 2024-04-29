@@ -4,11 +4,11 @@ select
 from
     visits
 where
-    visit_id not in(
-    select
-        visit_id
-    from
-        Transactions
-    )
-    group by
-        customer_id
+    visit_id not in (
+          select 
+            visit_id
+          from
+            transactions
+          )
+Group by
+    customer_id
