@@ -1,5 +1,5 @@
 select
-    v.customer_id,
+    customer_id,
     count(*) as count_no_trans
 from
     visits as v
@@ -10,4 +10,4 @@ on
 where
     t.visit_id is null
 Group by
-    v.customer_id
+    customer_id
