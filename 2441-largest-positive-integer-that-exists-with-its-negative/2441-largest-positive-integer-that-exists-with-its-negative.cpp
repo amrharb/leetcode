@@ -2,10 +2,12 @@ class Solution {
 public:
     int findMaxK(vector<int>& nums) {
         sort(nums.begin(),nums.end());
+        int idx,n=nums.size();
         for(auto&it:nums)
         {
             if(it>0)break;
-            if(lower_bound(nums.begin(),nums.end(),-it)!=nums.end()&&*lower_bound(nums.begin(),nums.end(),-it)==-it)
+            idx=lower_bound(nums.begin(),nums.end(),-it)-nums.begin();
+            if(idx<n&&nums[idx]==-it)
                 return -it;
         }
         return -1;
