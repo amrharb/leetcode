@@ -7,7 +7,7 @@ public:
         {
             if(it>0)break;
             idx=lower_bound(nums.begin(),nums.end(),-it)-nums.begin();
-            if(idx<n&&nums[idx]==-it)
+            if(idx<nums.size()&&nums[idx]==-it)
                 return -it;
         }
         return -1;
