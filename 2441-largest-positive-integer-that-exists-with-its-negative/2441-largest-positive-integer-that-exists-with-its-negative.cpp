@@ -9,7 +9,7 @@ public:
         for(auto&it:nums)
         {
             if(it>0)break;
-            if(mp.count(-it))
+            if(mp.find(-it)!=mp.end())
                 return -it;
         }
         return -1;
