@@ -2,21 +2,18 @@ class Solution {
 public:
     int equalSubstring(string s, string t, int maxCost) {
         int mx=0,n=s.size();
-        vector<int>pref(n+1);
+        vector<int>cost(n+1);
         for(int i=1;i<=n;i++)
-            pref[i]=pref[i-1]+abs(s[i-1]-t[i-1]);
-        for(int i=1;i<=n;i++)
+            cost[i]=abs(s[i-1]-t[i-1]);
+        int l=1,r=1,total=0;
+        while(l<=n)
         {
-            int l=i,r=n;
-            while(l<=r)
+            while(r<=n&&total+cost[r]<=maxCost)
             {
-                int mid=l+r>>1;
-                if(pref[mid]-pref[i-1]<=maxCost)
-                    l=mid+1;
-                else
-                    r=mid-1;
+                total+=cost[r++];
             }
-            mx=max(mx,l-i);
+            mx=max(mx,r-l);
+            total-=cost[l++];
         }
         return mx;
     }
