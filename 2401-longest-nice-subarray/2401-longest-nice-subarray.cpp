@@ -7,16 +7,12 @@ public:
             if(pref[i]&&(x&(1<<i)))
                 return false;
         }
-        for(int i=0;i<30;i++)
-        {
-            pref[i]+=((x>>i)&1);
-        }
         return true;
     }
-    void remove(vector<int>&pref,int x)
+    void update(vector<int>&pref,int x,bool f)
     {
         for(int i=0;i<30;i++)
-            pref[i]-=((x>>i)&1);
+            pref[i]+=(f*2-1)*((x>>i)&1);
     }
     int longestNiceSubarray(vector<int>& nums) {
         vector<int>pref(30);
@@ -24,9 +20,11 @@ public:
         while(l<n)
         {
             while(r<n&&add(pref,nums[r]))
-                r++;
+            {
+                update(pref,nums[r++],1);
+            }
             mx=max(mx,r-l);
-            remove(pref,nums[l++]);
+            update(pref,nums[l++],0);
         }
         return mx;
     }
