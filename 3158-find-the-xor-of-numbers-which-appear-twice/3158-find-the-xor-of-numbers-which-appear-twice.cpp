@@ -4,7 +4,7 @@ public:
         bitset<51>vis;
         for(auto&it:nums)
             vis[it].flip();
-        int xr=0;
+        short xr=0;
         for(auto&it:nums)
             if(!vis[it])
                 xr^=it,vis[it].flip();
