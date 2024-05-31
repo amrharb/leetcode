@@ -1,7 +1,7 @@
 class Solution {
 public:
     int duplicateNumbersXOR(vector<int>& nums) {
-        bitset<55>vis;
+        bitset<51>vis;
         for(auto&it:nums)
             vis[it].flip();
         int xr=0;
