@@ -1,10 +1,10 @@
 class Solution {
 public:
     int appendCharacters(string s, string t) {
-        int j=0;
+        int j=0,m=t.size();
         for(auto&it:s)
-            if(it==t[j])
+            if(j<m&&it==t[j])
                 j++;
-        return t.size()-j;
+        return m-j;
     }
 };
