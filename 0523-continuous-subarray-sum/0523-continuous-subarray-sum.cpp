@@ -1,9 +1,9 @@
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
-        unordered_map<long long,int>mp;
+        unordered_map<int,int>mp;
         bool f=0;
-        long long sum=0;
+        int sum=0;
         mp[0]=-1;
         for(int i=0;i<nums.size();i++)
         {
