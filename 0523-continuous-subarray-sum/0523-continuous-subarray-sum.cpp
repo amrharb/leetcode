@@ -3,9 +3,9 @@ public:
     bool checkSubarraySum(vector<int>& nums, int k) {
         unordered_map<int,int>mp;
         bool f=0;
-        int sum=0;
+        int sum=0,n=nums.size();
         mp[0]=-1;
-        for(int i=0;i<nums.size();i++)
+        for(int i=0;i<n;i++)
         {
             (sum+=nums[i])%=k;
             if(mp.count(sum)){
