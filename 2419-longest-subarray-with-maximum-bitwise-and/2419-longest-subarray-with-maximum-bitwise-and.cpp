@@ -1,14 +1,14 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        map<int,int>mp;
-        for(auto&it:nums)mp[it]++;
-        int ans=(*mp.rbegin()).first,cnt=0,mx=0;
+        int mx=0;
+        for(auto&it:nums)mx=max(mx,it);
+        int cnt=0,ans=0;
         for(int i=0;i<nums.size();i++){
-            if(nums[i]==ans)cnt++;
+            if(nums[i]==mx)cnt++;
             else cnt=0;
-            mx=max(mx,cnt);
+            ans=max(ans,cnt);
         }
-        return mx;
+        return ans;
     }
 };
