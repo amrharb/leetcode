@@ -1,9 +1,12 @@
 class Solution {
 public:
-    bool isPalindrome(string str){
-        string rev=str;
-        reverse(rev.begin(),rev.end());
-        return rev==str;
+    bool isPalindrome(string s){
+        int n=s.size();
+        for(int i=0;i<n/2;i++){
+            if(s[i]!=s[n-i-1])
+                return false;
+        }
+        return true;
     }
     bool validPalindrome(string s) {
         int n=s.size(),i=0,j=n-1;
