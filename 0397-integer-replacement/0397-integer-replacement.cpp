@@ -2,10 +2,17 @@ class Solution {
 public:
     #define ll long long
     int integerReplacement(ll n) {
-        if(n==1)
-            return 0;
-        if(n&1)
-            return 1+min(integerReplacement(n+1),integerReplacement(n-1));
-        return 1+integerReplacement(n/2);
+        int cnt=0;
+        while(n!=1){
+            if(n%2==0)n/=2;
+            else{
+                if((n/2)%2==0||n==3)n--;
+                else if((n/2+1)%2==0)n++;
+                else n--;
+            }
+            cnt++;
+            cout<<n<<' ';
+        }
+        return cnt;
     }
 };
