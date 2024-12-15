@@ -1,14 +1,17 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string nw_str;
-        for(auto it:s){
-            if(isalpha(it)||isdigit(it)){
-                nw_str+=tolower(it);
-            }
+        int i=0,j=s.size()-1;
+        while(i<=j){
+            while(i<j&&!(isalpha(s[i])||isdigit(s[i])))
+                i++;
+            while(i<j&&!(isalpha(s[j])||isdigit(s[j])))
+                j--;
+            if(isupper(s[i]))s[i]=tolower(s[i]);
+            if(isupper(s[j]))s[j]=tolower(s[j]);
+            if(s[i]!=s[j])return false;
+            i++,j--;
         }
-        string reversed_str=nw_str;
-        reverse(reversed_str.begin(),reversed_str.end());
-        return nw_str==reversed_str;
+        return true;
     }
 };
