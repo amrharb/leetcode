@@ -36,7 +36,7 @@ public:
             l2=l2->next;
             temp=temp->next;
         }
-        while(carry){
+        if(carry){
             temp->next=new ListNode(carry%10);
             carry/=10;
         }
