@@ -11,15 +11,24 @@
  */
 class Solution {
 public:
-    bool validate(TreeNode* root,int k,unordered_map<int,int>&freq){
-        if(root==nullptr)return false;
-        if(freq.count(k-root->val))
-            return true;
-        freq[root->val]++;
-        return validate(root->left,k,freq)||validate(root->right,k,freq);
+    void inorderTraversal(TreeNode* root,vector<int>&inorder){
+        if(root==nullptr)return;
+        inorderTraversal(root->left,inorder);
+        inorder.push_back(root->val);
+        inorderTraversal(root->right,inorder);
     }
     bool findTarget(TreeNode* root, int k) {
-        unordered_map<int,int>freq;
-        return validate(root,k,freq);
+        vector<int>inorder;
+        inorderTraversal(root,inorder);
+        int l=0,r=inorder.size()-1;
+        while(l<r){
+            if(inorder[l]+inorder[r]==k)return true;
+            if(inorder[l]+inorder[r]>k){
+                r--;
+            }else{
+                l++;
+            }
+        }
+        return false;
     }
 };
