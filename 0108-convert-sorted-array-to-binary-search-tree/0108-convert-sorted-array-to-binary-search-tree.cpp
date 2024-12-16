@@ -13,8 +13,6 @@ class Solution {
 public:
     TreeNode* sortedArrayToBST(const vector<int>& nums) {
         if(nums.empty())return nullptr;
-        if(nums.size()==1)
-            return new TreeNode(nums[nums.size()/2]);
         auto left = sortedArrayToBST(vector<int>(nums.begin(),nums.begin()+nums.size()/2));
         auto right = sortedArrayToBST(vector<int>(nums.begin()+nums.size()/2+1,nums.end()));
         TreeNode* root = new TreeNode(nums[nums.size()/2],left,right);
