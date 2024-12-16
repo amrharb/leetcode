@@ -11,26 +11,21 @@
  */
 class Solution {
 public:
-    vector<double> avg;
-    vector<int> cnt;
-
-    void dfs(TreeNode* root, int depth) {
-        if (root == nullptr) return;
-        if (avg.size() <= depth) {
-            avg.push_back(0);
-            cnt.push_back(0);
-        }
-        avg[depth] += root->val;
-        cnt[depth]++;
-        dfs(root->left, depth + 1);
-        dfs(root->right, depth + 1);
-    }
-
     vector<double> averageOfLevels(TreeNode* root) {
-        if (root == nullptr) return {};
-        dfs(root, 0);
-        for (int i = 0; i < avg.size(); i++)
-            avg[i] /= cnt[i];
-        return avg;
+        vector<double>ans;
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            int sz=q.size();
+            long long sum=0;
+            for(int i=0;i<sz;i++){
+                auto it=q.front();q.pop();
+                sum+=it->val;
+                if(it->left!=NULL)q.push(it->left);
+                if(it->right!=NULL)q.push(it->right);
+            }
+            ans.emplace_back(sum*1.0/sz);
+        }
+        return ans;
     }
 };
