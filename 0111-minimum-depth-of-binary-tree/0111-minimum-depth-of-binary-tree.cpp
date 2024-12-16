@@ -14,6 +14,11 @@ public:
     int minDepth(TreeNode* root) {
         if(root==nullptr)return 0;
         if(root->left==nullptr&&root->right==nullptr)return 1;
-        return 1+min((root->left == nullptr ? INT_MAX:minDepth(root->left)),(root->right == nullptr ? INT_MAX:minDepth(root->right)));
+        int mnDepth=INT_MAX;
+        if(root->left!=nullptr)
+            mnDepth=min(mnDepth,1+minDepth(root->left));
+        if(root->right!=nullptr)
+            mnDepth=min(mnDepth,1+minDepth(root->right));
+        return mnDepth;
     }
 };
