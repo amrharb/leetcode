@@ -13,11 +13,10 @@ public:
     
     int get(int key) {
         if(index.count(key)){
-            int value=vals[index[key]];
-            index[key]=keys.size();
             keys.push_back(key);
-            vals.push_back(value);
-            return value;
+            vals.push_back(vals[index[key]]);
+            index[key]=keys.size()-1;
+            return vals.back();
         }
         else return -1;
     }
