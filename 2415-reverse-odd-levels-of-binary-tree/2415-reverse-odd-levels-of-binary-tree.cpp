@@ -12,34 +12,15 @@
 class Solution {
 public:
     TreeNode* reverseOddLevels(TreeNode* root) {
-        queue<TreeNode*>q;
-        q.push(root);
-        vector<int>cur,nxt={root->val};
-        bool odd=0;
-        while(!q.empty()){
-            int sz=q.size();
-            cur=nxt;
-            nxt.clear();
-            while(sz--){
-                auto p=q.front();
-                q.pop();
-                if(odd){
-                    p->val=cur.back();
-                    cur.pop_back();
-                }
-                if(p->left!=nullptr){
-                    q.push(p->left);
-                    if(!odd)
-                        nxt.push_back(p->left->val);
-                }
-                if(p->right!=nullptr){
-                    q.push(p->right);
-                    if(!odd)
-                        nxt.push_back(p->right->val);
-                }
-            }
-            odd^=1;
-        }
+        dfs(root->left,root->right,1);
         return root;
+    }
+    void dfs(TreeNode* left,TreeNode* right,bool oddLevel){
+        if(left==nullptr)return;
+        if(oddLevel){
+            swap(left->val,right->val);
+        }
+        dfs(left->left,right->right,oddLevel^1);
+        dfs(left->right,right->left,oddLevel^1);
     }
 };
