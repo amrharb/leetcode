@@ -23,14 +23,20 @@ public:
             while(sz--){
                 auto p=q.front();
                 q.pop();
-                if(odd&1){
+                if(odd){
                     p->val=cur.back();
                     cur.pop_back();
                 }
-                if(p->left!=nullptr)
-                    q.push(p->left),nxt.push_back(p->left->val);
-                if(p->right!=nullptr)
-                    q.push(p->right),nxt.push_back(p->right->val);
+                if(p->left!=nullptr){
+                    q.push(p->left);
+                    if(!odd)
+                        nxt.push_back(p->left->val);
+                }
+                if(p->right!=nullptr){
+                    q.push(p->right);
+                    if(!odd)
+                        nxt.push_back(p->right->val);
+                }
             }
             odd^=1;
         }
