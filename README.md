@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/amrharb/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amrharb/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/amrharb/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2888-minimum-index-of-a-valid-split](https://github.com/amrharb/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/amrharb/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Monotonic Stack
 |  |
 | ------- |
