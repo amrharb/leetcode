@@ -1,14 +1,14 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>ans(n,1e9);
-        ans[0]=0;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<min(n,i+nums[i]+1);j++){
-                ans[j]=min(ans[j],ans[i]+1);
+        int n = nums.size(), mx = 0, cnt = 0, last = 0;
+        for (int i = 0; i + 1 < n; i++) {
+            mx = max(mx, i + nums[i]);
+            if (i == last) {
+                ++cnt;
+                last = mx;
             }
         }
-        return ans[n-1];
+        return cnt;
     }
 };
