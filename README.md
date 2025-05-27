@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amrharb/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2481-strictly-palindromic-number](https://github.com/amrharb/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Two Pointers
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amrharb/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/amrharb/leetcode/tree/master/0075-sort-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amrharb/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/amrharb/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -182,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amrharb/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/amrharb/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
