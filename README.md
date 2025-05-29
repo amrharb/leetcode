@@ -35,16 +35,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/amrharb/leetcode/tree/master/0127-word-ladder) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/amrharb/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
