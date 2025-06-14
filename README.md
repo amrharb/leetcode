@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amrharb/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2481-strictly-palindromic-number](https://github.com/amrharb/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/amrharb/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Two Pointers
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/amrharb/leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/amrharb/leetcode/tree/master/0135-candy) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/amrharb/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
