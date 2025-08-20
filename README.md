@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amrharb/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2280-count-good-triplets-in-an-array](https://github.com/amrharb/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/amrharb/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/amrharb/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2665-minimum-time-to-repair-cars](https://github.com/amrharb/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/amrharb/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/amrharb/leetcode/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/amrharb/leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/amrharb/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/amrharb/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/amrharb/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/amrharb/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
