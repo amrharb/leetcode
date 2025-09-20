@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/amrharb/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amrharb/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/amrharb/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/amrharb/leetcode/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/amrharb/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/amrharb/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/amrharb/leetcode/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/amrharb/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/amrharb/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [3827-implement-router](https://github.com/amrharb/leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,10 +225,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/amrharb/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3678-design-task-manager](https://github.com/amrharb/leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/amrharb/leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/amrharb/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/amrharb/leetcode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -292,4 +297,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3678-design-task-manager](https://github.com/amrharb/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/amrharb/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/amrharb/leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
