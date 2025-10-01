@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/amrharb/leetcode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/amrharb/leetcode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/amrharb/leetcode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amrharb/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amrharb/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/amrharb/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/amrharb/leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/amrharb/leetcode/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/amrharb/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/amrharb/leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/amrharb/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1894-merge-strings-alternately](https://github.com/amrharb/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amrharb/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/amrharb/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amrharb/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/amrharb/leetcode/tree/master/0165-compare-version-numbers) |
+| [0392-is-subsequence](https://github.com/amrharb/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/amrharb/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amrharb/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/amrharb/leetcode/tree/master/2481-strictly-palindromic-number) |
