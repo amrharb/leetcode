@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/amrharb/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amrharb/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1325-path-with-maximum-probability](https://github.com/amrharb/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amrharb/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1791-richest-customer-wealth](https://github.com/amrharb/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/amrharb/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amrharb/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/amrharb/leetcode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amrharb/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amrharb/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amrharb/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/amrharb/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amrharb/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/amrharb/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/amrharb/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amrharb/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/amrharb/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/amrharb/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
