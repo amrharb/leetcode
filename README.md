@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amrharb/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amrharb/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-alternating-groups-ii](https://github.com/amrharb/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/amrharb/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/amrharb/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/amrharb/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amrharb/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
