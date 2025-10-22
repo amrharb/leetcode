@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/amrharb/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrharb/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/amrharb/leetcode/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amrharb/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/amrharb/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amrharb/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -80,12 +81,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
+| [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/amrharb/leetcode/tree/master/0127-word-ladder) |
+| [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/amrharb/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amrharb/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Math
 |  |
@@ -261,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrharb/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/amrharb/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/amrharb/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -342,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1325-path-with-maximum-probability](https://github.com/amrharb/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1612-avoid-flood-in-the-city](https://github.com/amrharb/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3678-design-task-manager](https://github.com/amrharb/leetcode/tree/master/3678-design-task-manager) |
@@ -360,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1791-richest-customer-wealth](https://github.com/amrharb/leetcode/tree/master/1791-richest-customer-wealth) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amrharb/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amrharb/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
