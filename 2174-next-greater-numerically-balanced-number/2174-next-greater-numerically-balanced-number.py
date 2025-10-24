@@ -21,4 +21,4 @@ class Solution:
         solve(1, "")
         ans.sort()
         idx = bisect_right(ans, n)
-        return ans[idx] if idx < len(ans) else -1
+        return ans[idx]
