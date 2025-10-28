@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amrharb/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-alternating-groups-ii](https://github.com/amrharb/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/amrharb/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/amrharb/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/amrharb/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amrharb/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/amrharb/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amrharb/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amrharb/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/amrharb/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amrharb/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/amrharb/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Graph
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/amrharb/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amrharb/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amrharb/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/amrharb/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/amrharb/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/amrharb/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Topological Sort
