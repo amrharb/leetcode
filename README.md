@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amrharb/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amrharb/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-alternating-groups-ii](https://github.com/amrharb/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amrharb/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/amrharb/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/amrharb/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/amrharb/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/amrharb/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amrharb/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/amrharb/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amrharb/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/amrharb/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/amrharb/leetcode/tree/master/3797-design-spreadsheet) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/amrharb/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/amrharb/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amrharb/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amrharb/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amrharb/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
