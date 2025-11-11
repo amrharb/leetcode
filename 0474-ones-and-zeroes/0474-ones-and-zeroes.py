@@ -1,6 +1,6 @@
 class Solution:
     def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
-        @lru_cache(10**7)
+        @lru_cache(6 * 10**6)
         def solve(i, zeros, ones):
             if zeros < 0 or ones < 0:
                 return -(10**5)
