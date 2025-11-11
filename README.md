@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/amrharb/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/amrharb/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/amrharb/leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amrharb/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/amrharb/leetcode/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Dynamic Programming
 |  |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-design-task-manager](https://github.com/amrharb/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/amrharb/leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/amrharb/leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amrharb/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/amrharb/leetcode/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## String
 |  |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amrharb/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/amrharb/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/amrharb/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amrharb/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -277,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amrharb/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
 | ------- |
