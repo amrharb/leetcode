@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/amrharb/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/amrharb/leetcode/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amrharb/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/amrharb/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrharb/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/amrharb/leetcode/tree/master/0679-24-game) |
 | [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/amrharb/leetcode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/amrharb/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/amrharb/leetcode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/amrharb/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amrharb/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amrharb/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amrharb/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/amrharb/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/amrharb/leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/amrharb/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/amrharb/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amrharb/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amrharb/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/amrharb/leetcode/tree/master/1894-merge-strings-alternately) |
