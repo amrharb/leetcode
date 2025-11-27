@@ -10,7 +10,7 @@ class Solution:
         ans = pref
         for i in range(k, n):
             pref += nums[i]
-            print(pref, minVal[i % k])
-            ans = max(ans, pref - minVal[i % k])
-            minVal[i % k] = min(minVal[i % k], pref)
+            idx = i % k
+            ans = max(ans, pref - minVal[idx])
+            minVal[idx] = min(minVal[idx], pref)
         return ans
