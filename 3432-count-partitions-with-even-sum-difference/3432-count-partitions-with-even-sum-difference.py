@@ -6,5 +6,5 @@ class Solution:
         for i in range(len(nums) - 1):
             pref += nums[i]
             suf -= nums[i]
-            cnt += not (abs(pref - suf) & 1)
+            cnt += not ((pref - suf) & 1)
         return cnt
