@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amrharb/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amrharb/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amrharb/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amrharb/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-alternating-groups-ii](https://github.com/amrharb/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amrharb/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amrharb/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amrharb/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/amrharb/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amrharb/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/amrharb/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amrharb/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/amrharb/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amrharb/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amrharb/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/amrharb/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
