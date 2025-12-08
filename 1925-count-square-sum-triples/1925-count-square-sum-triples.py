@@ -8,4 +8,6 @@ class Solution:
             for b in range(1, n + 1):
                 if a * a + b * b in sq:
                     ans += 1
+                elif a * a + b * b > n * n:
+                    break
         return ans
