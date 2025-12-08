@@ -1,9 +1,9 @@
 class Solution:
     def countTriples(self, n: int) -> int:
         ans = 0
-        sq = {}
+        sq = set()
         for a in range(1, n + 1):
-            sq[a * a] = 1
+            sq.add(a * a)
         for a in range(1, n + 1):
             mxB = int(sqrt(n * n - a * a))
             for b in range(1, mxB + 1):
