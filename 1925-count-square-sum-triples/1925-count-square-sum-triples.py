@@ -6,10 +6,13 @@ class Solution:
             sq = int(sqrt(n))
             return sq * sq == n
 
+        sq = {}
+        squares = []
         for a in range(1, n + 1):
-            b = 1
-            while a * a + b * b <= n * n:
-                if IsPerfectSquare(a * a + b * b):
+            squares.append(a * a)
+            sq[a * a] = 1
+        for a in squares:
+            for b in squares:
+                if a + b in sq:
                     ans += 1
-                b += 1
         return ans
