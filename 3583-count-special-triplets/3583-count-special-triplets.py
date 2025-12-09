@@ -10,5 +10,6 @@ class Solution:
             suf[num] -= 1
             if num * 2 in pref and num * 2 in suf:
                 ans += pref[num * 2] * suf[num * 2]
+                ans %= mod
             pref[num] += 1
-        return ans % mod
+        return ans
