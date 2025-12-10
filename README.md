@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amrharb/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/amrharb/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/amrharb/leetcode/tree/master/0135-candy) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrharb/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/amrharb/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/amrharb/leetcode/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amrharb/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amrharb/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrharb/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/amrharb/leetcode/tree/master/0274-h-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/amrharb/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrharb/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/amrharb/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrharb/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1325-path-with-maximum-probability](https://github.com/amrharb/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1612-avoid-flood-in-the-city](https://github.com/amrharb/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -481,4 +485,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/amrharb/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amrharb/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
