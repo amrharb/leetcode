@@ -5,6 +5,6 @@ class Solution:
         while x:
             x, mod = divmod(x, 10)
             rev = rev * 10 + mod
-        if rev > 2**31 - 1:
-            return 0
+            if rev > 2**31 - 1:
+                return 0
         return sign * rev
