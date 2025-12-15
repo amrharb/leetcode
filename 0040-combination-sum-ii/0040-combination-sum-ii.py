@@ -19,10 +19,8 @@ class Solution:
             for j in range(i, n):
                 if j > i and candidates[j] == candidates[j - 1]:
                     continue
-                curr_sum += candidates[j]
                 curr_lst.append(candidates[j])
-                backTrack(j + 1, curr_sum, curr_lst)
-                curr_sum -= candidates[j]
+                backTrack(j + 1, curr_sum + candidates[j], curr_lst)
                 curr_lst.pop()
 
         backTrack(0, 0, [])
