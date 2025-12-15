@@ -1,17 +1,23 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         nums.sort()
-        dict = defaultdict(int)
+        dict = defaultdict(list)
         n = len(nums)
         for i in range(n):
-            dict[nums[i]] = i
+            for j in range(i + 1, n):
+                dict[nums[i] + nums[j]].append([i, j])
         ans = set()
         for i in range(n):
             for j in range(i + 1, n):
-                for k in range(j + 1, n):
-                    need = target - (nums[i] + nums[j] + nums[k])
-                    if need in dict and dict[need] not in (i, j, k):
-                        cur = [nums[i], nums[j], nums[k], need]
-                        cur.sort()
-                        ans.add(tuple(cur))
+                need = target - (nums[i] + nums[j])
+                k, l = j + 1, n - 1
+                while k < l:
+                    if nums[k] + nums[l] > need:
+                        l -= 1
+                    elif nums[k] + nums[l] < need:
+                        k += 1
+                    else:
+                        ans.add((nums[i], nums[j], nums[k], nums[l]))
+                        l -= 1
+                        k += 1
         return list(ans)
