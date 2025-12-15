@@ -14,7 +14,7 @@ class Solution:
             for j in range(i + 1, n):
                 for k in range(j + 1, n):
                     need = target - (nums[i] + nums[j] + nums[k])
-                    if need in dict and dict[need] not in (i, j, k):
+                    if need in dict and dict[need] > k:
                         cur = [nums[i], nums[j], nums[k], need]
                         cur.sort()
                         ans.add(tuple(cur))
