@@ -9,12 +9,12 @@ class Solution:
         n = len(candidates)
 
         def backTrack(i, curr_sum, curr_lst):
-            if curr_sum > target:
-                return
             if curr_sum == target:
                 ans.append(curr_lst[:])
                 return
             if i == n:
+                return
+            if curr_sum + candidates[i] > target:
                 return
             for j in range(i, n):
                 if j > i and candidates[j] == candidates[j - 1]:
