@@ -9,5 +9,4 @@ class Solution:
             else:
                 prev = 1
             ans += prev
-            print(i, prev)
         return ans
