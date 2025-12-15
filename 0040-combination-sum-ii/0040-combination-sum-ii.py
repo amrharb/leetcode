@@ -12,7 +12,7 @@ class Solution:
             if curr_sum > target:
                 return
             if curr_sum == target:
-                ans.append(list(curr_lst))
+                ans.append(curr_lst[:])
                 return
             if i == n:
                 return
