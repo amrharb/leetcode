@@ -1,7 +1,8 @@
 class Solution:
     def getDescentPeriods(self, prices: List[int]) -> int:
         n = len(prices)
-        @lru_cache(10**5)
+
+        @lru_cache(n)
         def solve(i):
             if i == n:
                 return 0
@@ -11,5 +12,5 @@ class Solution:
 
         ans = 0
         for i in range(n):
-            ans += 1 + solve(i+1)
+            ans += 1 + solve(i + 1)
         return ans
