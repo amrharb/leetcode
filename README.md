@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/amrharb/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/amrharb/leetcode/tree/master/0231-power-of-two) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/amrharb/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amrharb/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/amrharb/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/amrharb/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/amrharb/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/amrharb/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amrharb/leetcode/tree/master/0326-power-of-three) |
 | [0679-24-game](https://github.com/amrharb/leetcode/tree/master/0679-24-game) |
