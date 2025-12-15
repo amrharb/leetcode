@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0018-4sum](https://github.com/amrharb/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amrharb/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/amrharb/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/amrharb/leetcode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/amrharb/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amrharb/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/amrharb/leetcode/tree/master/0040-combination-sum-ii) |
 | [0679-24-game](https://github.com/amrharb/leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amrharb/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/amrharb/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
