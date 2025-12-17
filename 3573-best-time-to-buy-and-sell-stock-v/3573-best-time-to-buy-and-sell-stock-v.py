@@ -1,6 +1,3 @@
-import sys
-
-
 class Solution:
     def maximumProfit(self, p: List[int], k: int) -> int:
         n = len(p)
