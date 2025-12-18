@@ -15,10 +15,8 @@ class Solution:
             val2 = l2.val if l2 else 0
             summ = val1 + val2 + carry
             dummy.next = ListNode(summ % 10)
-            if l1:
-                l1 = l1.next
-            if l2:
-                l2 = l2.next
+            l1 = l1.next if l1 else l1
+            l2 = l2.next if l2 else l2
             carry = summ // 10
             dummy = dummy.next
         if carry:
