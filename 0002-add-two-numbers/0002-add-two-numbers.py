@@ -10,7 +10,7 @@ class Solution:
         head = ListNode(0)
         dummy = head
         carry = 0
-        while l1 or l2:
+        while l1 or l2 or carry:
             val1 = l1.val if l1 else 0
             val2 = l2.val if l2 else 0
             summ = val1 + val2 + carry
@@ -19,6 +19,4 @@ class Solution:
             l2 = l2.next if l2 else l2
             carry = summ // 10
             dummy = dummy.next
-        if carry:
-            dummy.next = ListNode(carry)
         return head.next
