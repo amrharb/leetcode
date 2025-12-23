@@ -3,7 +3,7 @@ class Solution:
         events.sort()
         print(events)
 
-        @lru_cache(None)
+        @lru_cache(3 * 10 ** 5)
         def solve(i, taken):
             if taken == 2 or i == len(events):
                 return 0
