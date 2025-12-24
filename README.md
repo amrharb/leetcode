@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/amrharb/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrharb/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/amrharb/leetcode/tree/master/0679-24-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/amrharb/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/amrharb/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amrharb/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/amrharb/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/amrharb/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/amrharb/leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/amrharb/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/amrharb/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amrharb/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amrharb/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amrharb/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amrharb/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/amrharb/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/amrharb/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/amrharb/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amrharb/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amrharb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/amrharb/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/amrharb/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amrharb/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
