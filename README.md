@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/amrharb/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/amrharb/leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amrharb/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0756-pyramid-transition-matrix](https://github.com/amrharb/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amrharb/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/amrharb/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/amrharb/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/amrharb/leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/amrharb/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/amrharb/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/amrharb/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amrharb/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amrharb/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amrharb/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/amrharb/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/amrharb/leetcode/tree/master/0231-power-of-two) |
+| [0756-pyramid-transition-matrix](https://github.com/amrharb/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/amrharb/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amrharb/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amrharb/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/amrharb/leetcode/tree/master/0040-combination-sum-ii) |
 | [0679-24-game](https://github.com/amrharb/leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/amrharb/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amrharb/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/amrharb/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Recursion
