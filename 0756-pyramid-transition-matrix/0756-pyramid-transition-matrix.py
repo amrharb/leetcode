@@ -4,6 +4,7 @@ class Solution:
         for pattern in allowed:
             validTops[(pattern[0], pattern[1])].add(pattern[2])
 
+        @lru_cache
         def check(pattern):
             if len(pattern) == 1:
                 return True
