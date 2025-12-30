@@ -8,21 +8,20 @@ class Solution:
         def check(pattern):
             if len(pattern) == 1:
                 return True
-            choices = list()
-            choices.append("")
             for i in range(len(pattern) - 1):
                 if (pattern[i], pattern[i + 1]) not in validTops:
                     return False
-                temp = list(choices)
-                choices = []
-                for top in validTops[(pattern[i], pattern[i + 1])]:
-                    for choice in temp:
-                        nw = choice + top
-                        choices.append(nw)
 
-            for choice in choices:
-                if check(choice):
-                    return True
-            return False
+            @cache
+            def backTrack(i, choice):
+                if i == len(pattern) - 1:
+                    return check(choice)
+
+                for top in validTops[(pattern[i], pattern[i + 1])]:
+                    if backTrack(i + 1, choice + top):
+                        return True
+                return False
+
+            return backTrack(0, "")
 
         return check(bottom)
