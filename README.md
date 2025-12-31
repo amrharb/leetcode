@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/amrharb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/amrharb/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amrharb/leetcode/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/amrharb/leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/amrharb/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/amrharb/leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/amrharb/leetcode/tree/master/0165-compare-version-numbers) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amrharb/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/amrharb/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2211-count-collisions-on-a-road](https://github.com/amrharb/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
