@@ -2,7 +2,7 @@ class Solution:
     def numOfWays(self, n: int) -> int:
         mod = 10**9 + 7
 
-        @lru_cache(100 * n)
+        @cache
         def solve(i, j, last):
             if j == 3:
                 return solve(i + 1, 0, last)
