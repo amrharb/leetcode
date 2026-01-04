@@ -12,6 +12,8 @@ class Solution:
                     if i * i != num:
                         cnt += 1
                         curr += num // i
+                    if cnt > 4:
+                        break
             if cnt == 4:
                 summ += curr
         return summ
