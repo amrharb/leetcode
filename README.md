@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amrharb/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amrharb/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
 | [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amrharb/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/amrharb/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amrharb/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/amrharb/leetcode/tree/master/0127-word-ladder) |
 | [0794-swim-in-rising-water](https://github.com/amrharb/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amrharb/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/amrharb/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2092-find-all-people-with-secret](https://github.com/amrharb/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amrharb/leetcode/tree/master/0112-path-sum) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amrharb/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
