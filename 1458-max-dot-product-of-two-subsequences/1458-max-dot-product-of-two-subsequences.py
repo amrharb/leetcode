@@ -7,7 +7,7 @@ class Solution:
         def solve(i, j, take):
             if i == n or j == m:
                 if not take:
-                    return -inf
+                    return -10 ** 18
                 return 0
             return max(
                 solve(i + 1, j, take),
