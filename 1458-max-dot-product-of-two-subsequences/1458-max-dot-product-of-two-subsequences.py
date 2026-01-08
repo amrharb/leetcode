@@ -3,7 +3,7 @@ class Solution:
         n = len(nums1)
         m = len(nums2)
 
-        @cache
+        @lru_cache(n*m)
         def solve(i, j):
             if i == n or j == m:
                 return -inf
