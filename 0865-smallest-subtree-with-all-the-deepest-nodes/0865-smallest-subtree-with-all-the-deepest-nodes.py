@@ -7,16 +7,16 @@
 class Solution:
     def subtreeWithAllDeepest(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         def dfs(root):
+            if not root:
+                return [root, 0]
             curr = [root, 0]
-            if root.left:
-                curr = dfs(root.left)
-            if root.right:
-                ret = dfs(root.right)
-                if ret[1] > curr[1]:
-                    curr = ret
-                elif ret[1] == curr[1]:
-                    curr = [root, curr[1]]
-            curr[1] += 1
+            left = dfs(root.left)
+            right = dfs(root.right)
+            if left[1] > right[1]:
+                curr[0] = left[0]
+            elif left[1] < right[1]:
+                curr[0] = right[0]
+            curr[1] = max(left[1], right[1]) + 1
             return curr
 
         return dfs(root)[0]
