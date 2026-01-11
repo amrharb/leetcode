@@ -11,14 +11,15 @@ public:
         int ans = 0;
         for (int i = 1; i <= n; i++) {
             for (int j = i; j <= n; j++) {
-                int sum = 0;
+                int sum = 0, mx = 0;
                 for (int k = 1; k <= m; k++) {
-                    if (pref[j][k] - pref[i - 1][k] == (j - i+1))
+                    if (pref[j][k] - pref[i - 1][k] == (j - i + 1))
                         sum++;
                     else
-                        sum=0;
-                    ans = max(ans, sum * (j - i + 1));
+                        sum = 0;
+                    mx = max(mx, sum);
                 }
+                ans = max(ans, mx * (j - i + 1));
             }
         }
         return ans;
