@@ -10,25 +10,33 @@ public:
                 pref[i][j] += mat[i][j];
             }
         }
-        int mx = 0;
-        for (int i = 0; i < n; i++) {
-            for (int k = i + mx; k < n; k++) {
+        auto check = [&](int x) {
+            for (int i = 0; i + x - 1 < n; i++) {
+                int k = i + x - 1;
                 vector<int> col(m);
                 for (int j = 0; j < m; j++) {
                     col[j] = pref[k][j] - (i ? pref[i - 1][j] : 0);
                 }
-                int sum = 0, diff = k - i + 1;
+                int sum = 0;
                 for (int j = 0; j < m; j++) {
                     sum += col[j];
-                    if (j >= diff)
-                        sum -= col[j - diff];
-                    if (j >= diff - 1 && sum <= threshold) {
-                        mx = max(mx, diff);
-                        break;
+                    if (j >= x)
+                        sum -= col[j - x];
+                    if (j >= x - 1 && sum <= threshold) {
+                        return true;
                     }
                 }
             }
+            return false;
+        };
+        int l = 1, r = min(n, m);
+        while (l <= r) {
+            int mid = (l + r) / 2;
+            if (check(mid))
+                l = mid + 1;
+            else
+                r = mid - 1;
         }
-        return mx;
+        return r;
     }
 };
