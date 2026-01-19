@@ -12,7 +12,7 @@ public:
         }
         int mx = 0;
         for (int i = 0; i < n; i++) {
-            for (int k = i; k < n; k++) {
+            for (int k = i + mx; k < n; k++) {
                 vector<int> col(m);
                 for (int j = 0; j < m; j++) {
                     col[j] = pref[k][j] - (i ? pref[i - 1][j] : 0);
