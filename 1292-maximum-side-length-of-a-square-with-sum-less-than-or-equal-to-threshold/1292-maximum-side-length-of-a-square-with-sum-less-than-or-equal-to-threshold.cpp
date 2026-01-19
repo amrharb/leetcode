@@ -12,16 +12,11 @@ public:
         }
         auto check = [&](int x) {
             for (int i = 0; i + x - 1 < n; i++) {
-                int k = i + x - 1;
-                vector<int> col(m);
+                int k = i + x - 1, sum = 0;
                 for (int j = 0; j < m; j++) {
-                    col[j] = pref[k][j] - (i ? pref[i - 1][j] : 0);
-                }
-                int sum = 0;
-                for (int j = 0; j < m; j++) {
-                    sum += col[j];
+                    sum += pref[k][j] - (i ? pref[i - 1][j] : 0);
                     if (j >= x)
-                        sum -= col[j - x];
+                        sum -= pref[k][j - x] - (i ? pref[i - 1][j - x] : 0);
                     if (j >= x - 1 && sum <= threshold) {
                         return true;
                     }
