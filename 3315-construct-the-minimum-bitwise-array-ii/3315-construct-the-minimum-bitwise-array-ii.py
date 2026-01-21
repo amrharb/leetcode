@@ -1,8 +1,7 @@
 class Solution:
     def minBitwiseArray(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        ans = [-1] * n
-        for i in range(n):
+        for i in range(len(nums)):
             if nums[i] & 1:
                 d = 1
                 last = 0
