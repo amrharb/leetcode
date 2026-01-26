@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amrharb/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/amrharb/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amrharb/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1200-minimum-absolute-difference](https://github.com/amrharb/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amrharb/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1325-path-with-maximum-probability](https://github.com/amrharb/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/amrharb/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/amrharb/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0973-k-closest-points-to-origin](https://github.com/amrharb/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/amrharb/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amrharb/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amrharb/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
