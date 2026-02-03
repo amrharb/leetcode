@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/amrharb/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amrharb/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/amrharb/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3637-trionic-array-i](https://github.com/amrharb/leetcode/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amrharb/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/amrharb/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/amrharb/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
