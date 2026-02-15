@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/amrharb/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amrharb/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/amrharb/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/amrharb/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/amrharb/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/amrharb/leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/amrharb/leetcode/tree/master/0165-compare-version-numbers) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amrharb/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/amrharb/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amrharb/leetcode/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/amrharb/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/amrharb/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/amrharb/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/amrharb/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/amrharb/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/amrharb/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/amrharb/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/amrharb/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/amrharb/leetcode/tree/master/0231-power-of-two) |
@@ -411,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amrharb/leetcode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/amrharb/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/amrharb/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/amrharb/leetcode/tree/master/2211-count-collisions-on-a-road) |
