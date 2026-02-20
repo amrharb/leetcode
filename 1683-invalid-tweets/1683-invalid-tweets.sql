@@ -1,3 +1,3 @@
 select tweet_id
-from Tweets
-where length(content) > 15
+from tweets
+where LENGTH(content) > 15;
