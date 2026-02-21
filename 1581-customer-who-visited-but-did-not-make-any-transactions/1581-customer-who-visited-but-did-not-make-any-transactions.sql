@@ -1,4 +1,4 @@
 select customer_id, count(*) as count_no_trans
-from visits
-where visit_id not in (select visit_id from Transactions)
+from visits v1
+where not exists (select visit_id from Transactions where visit_id = v1.visit_id)
 group by customer_id;
