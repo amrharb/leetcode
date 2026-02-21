@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/amrharb/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amrharb/leetcode/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/amrharb/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amrharb/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/amrharb/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amrharb/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/amrharb/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/amrharb/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amrharb/leetcode/tree/master/0326-power-of-three) |
 | [0679-24-game](https://github.com/amrharb/leetcode/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amrharb/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/amrharb/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0973-k-closest-points-to-origin](https://github.com/amrharb/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
