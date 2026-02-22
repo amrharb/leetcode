@@ -3,5 +3,5 @@ from weather w1
 where temperature > (
     select temperature
     from weather w2
-    where datediff(w1.recordDate, w2.recordDate) = 1
+    where date_sub(w1.recordDate, interval 1 day) = w2.recordDate
 );
