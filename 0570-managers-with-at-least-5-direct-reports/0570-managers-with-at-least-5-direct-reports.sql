@@ -1,8 +1,4 @@
-with cte as(
-    select managerId, count(*) as cnt
-    from employee
-    group by managerId
-)
-select name
-from employee emp join cte on emp.id = cte.managerId
-where cnt >= 5;
+select emp1.name as name
+from employee emp1 join employee emp2 on emp1.id = emp2.managerId
+group by emp1.id
+having count(emp2.id) >= 5;
