@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/amrharb/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/amrharb/leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/amrharb/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/amrharb/leetcode/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/amrharb/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amrharb/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amrharb/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/amrharb/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amrharb/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/amrharb/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/amrharb/leetcode/tree/master/0761-special-binary-string) |
