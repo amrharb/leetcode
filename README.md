@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/amrharb/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amrharb/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amrharb/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amrharb/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/amrharb/leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/amrharb/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/amrharb/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0756-pyramid-transition-matrix](https://github.com/amrharb/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amrharb/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/amrharb/leetcode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amrharb/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/amrharb/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/amrharb/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amrharb/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/amrharb/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amrharb/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amrharb/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amrharb/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/amrharb/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/amrharb/leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -539,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/amrharb/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/amrharb/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/amrharb/leetcode/tree/master/0383-ransom-note) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amrharb/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amrharb/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amrharb/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/amrharb/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
