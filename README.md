@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amrharb/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/amrharb/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amrharb/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/amrharb/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amrharb/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/amrharb/leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3074-apple-redistribution-into-boxes](https://github.com/amrharb/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amrharb/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amrharb/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/amrharb/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amrharb/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/amrharb/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/amrharb/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Matrix
 |  |
 | ------- |
