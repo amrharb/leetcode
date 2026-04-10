@@ -2,11 +2,13 @@ class Solution:
     def minimumDistance(self, nums: List[int]) -> int:
         ans = 10 ** 18
         n = len(nums)
+        adj = [[] for _ in range(n+1)]
         for i in range(n):
-            for j in range(i+1, n):
-                for k in range(j+1, n):
-                    if nums[i] == nums[j] == nums[k]:
-                        ans = min(ans, j - i + k - j + k - i)
+            adj[nums[i]].append(i)
+        for num in range(n+1):
+            if len(adj[num]) > 2:
+                for j in range(2,len(adj[num])):
+                    ans = min(ans, adj[num][j-1] - adj[num][j-2] + adj[num][j] - adj[num][j-1] + adj[num][j] - adj[num][j-2])
         if ans == 10 ** 18:
             return -1
         return ans
