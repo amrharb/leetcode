@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3074-apple-redistribution-into-boxes](https://github.com/amrharb/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amrharb/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3225-maximum-score-from-grid-operations](https://github.com/amrharb/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/amrharb/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/amrharb/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amrharb/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amrharb/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/amrharb/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amrharb/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/amrharb/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amrharb/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amrharb/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amrharb/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amrharb/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/amrharb/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amrharb/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amrharb/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -739,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-detect-cycles-in-2d-grid](https://github.com/amrharb/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1791-richest-customer-wealth](https://github.com/amrharb/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/amrharb/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3225-maximum-score-from-grid-operations](https://github.com/amrharb/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amrharb/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amrharb/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amrharb/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
