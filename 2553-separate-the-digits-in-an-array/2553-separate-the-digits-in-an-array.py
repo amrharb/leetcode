@@ -7,5 +7,5 @@ class Solution:
                 lst.append(num%10)
                 num //= 10
             lst = lst[::-1]
-            ans.extend(lst)
+            ans += lst
         return ans
