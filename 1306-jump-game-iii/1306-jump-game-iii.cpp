@@ -1,17 +1,27 @@
 class Solution {
 public:
-    int n;
-    vector<int>v;
-    bool vis[50005];
-    bool dfs(int i){
-        if(i<0||i>=n||vis[i])return 0;
-        if(!v[i])return 1;
-        vis[i]=1;
-        return dfs(i-v[i])||dfs(i+v[i]);
-    }
     bool canReach(vector<int>& arr, int start) {
-        n=arr.size();
-        v=arr;
-        return dfs(start);
+        int n = arr.size();
+        vector<bool> visited(n);
+        queue<int> q;
+        q.push(start);
+        visited[start] = true;
+        while (!q.empty()) {
+            int index = q.front();
+            q.pop();
+            if (arr[index] == 0)
+                return true;
+            int prev = index - arr[index];
+            if (prev >= 0 && !visited[prev]) {
+                q.push(prev);
+                visited[prev] = true;
+            }
+            int next = index + arr[index];
+            if (next < n && !visited[next]) {
+                q.push(next);
+                visited[next] = true;
+            }
+        }
+        return false;
     }
 };
