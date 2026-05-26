@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amrharb/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/amrharb/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/amrharb/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/amrharb/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amrharb/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amrharb/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2744-find-maximum-number-of-string-pairs](https://github.com/amrharb/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amrharb/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/amrharb/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/amrharb/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amrharb/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/amrharb/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
