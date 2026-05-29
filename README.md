@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3075-maximize-happiness-of-selected-children](https://github.com/amrharb/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-maximum-score-from-grid-operations](https://github.com/amrharb/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amrharb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/amrharb/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/amrharb/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/amrharb/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amrharb/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/amrharb/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amrharb/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amrharb/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/amrharb/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amrharb/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
