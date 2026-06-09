@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amrharb/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/amrharb/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/amrharb/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/amrharb/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amrharb/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/amrharb/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/amrharb/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3075-maximize-happiness-of-selected-children](https://github.com/amrharb/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amrharb/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/amrharb/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3689-maximum-total-subarray-value-i](https://github.com/amrharb/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amrharb/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
