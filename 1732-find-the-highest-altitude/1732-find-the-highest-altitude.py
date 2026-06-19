@@ -4,5 +4,5 @@ class Solution:
         pref = 0
         for g in gain:
             pref += g
-            maxPref = max(pref, maxPref);
+            maxPref = max(pref, maxPref)
         return maxPref
