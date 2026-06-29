@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/amrharb/leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amrharb/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amrharb/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amrharb/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/amrharb/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/amrharb/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amrharb/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amrharb/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amrharb/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/amrharb/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amrharb/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amrharb/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amrharb/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/amrharb/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
