@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amrharb/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amrharb/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amrharb/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/amrharb/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/amrharb/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/amrharb/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/amrharb/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amrharb/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amrharb/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amrharb/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/amrharb/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/amrharb/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amrharb/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -702,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/amrharb/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/amrharb/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/amrharb/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amrharb/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amrharb/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amrharb/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/amrharb/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
