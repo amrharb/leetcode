@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/amrharb/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/amrharb/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amrharb/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/amrharb/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/amrharb/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/amrharb/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/amrharb/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/amrharb/leetcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amrharb/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/amrharb/leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/amrharb/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amrharb/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/amrharb/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amrharb/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/amrharb/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/amrharb/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/amrharb/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amrharb/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/amrharb/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -774,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amrharb/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/amrharb/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/amrharb/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/amrharb/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amrharb/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amrharb/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/amrharb/leetcode/tree/master/3678-design-task-manager) |
@@ -808,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/amrharb/leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amrharb/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/amrharb/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/amrharb/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/amrharb/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amrharb/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amrharb/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -899,4 +904,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amrharb/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/amrharb/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
