@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amrharb/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amrharb/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/amrharb/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amrharb/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/amrharb/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/amrharb/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amrharb/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/amrharb/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amrharb/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/amrharb/leetcode/tree/master/0981-time-based-key-value-store) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amrharb/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/amrharb/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/amrharb/leetcode/tree/master/0525-contiguous-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/amrharb/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/amrharb/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amrharb/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/amrharb/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/amrharb/leetcode/tree/master/1590-make-sum-divisible-by-p) |
