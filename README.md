@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/amrharb/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amrharb/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/amrharb/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/amrharb/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/amrharb/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/amrharb/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -623,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3074-apple-redistribution-into-boxes](https://github.com/amrharb/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amrharb/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/amrharb/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/amrharb/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amrharb/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amrharb/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/amrharb/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amrharb/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/amrharb/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amrharb/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/amrharb/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3583-count-special-triplets](https://github.com/amrharb/leetcode/tree/master/3583-count-special-triplets) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/amrharb/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amrharb/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
